@@ -3,6 +3,7 @@
 ### Problem List
 * For the employment section there is no option for being currently employed.
 * Reword number of characters per field
+* profile versions
 * Richtext editor
 * Rework custom section have options such as: 
    * volunteering
@@ -25,7 +26,8 @@
 * tooltips - how to fill out certain sections
 * When trying to submit my profile from draft to pending, the app said that there was an error. (quicktime to record the error)
 * example placeholders in boxes
-* spelling/grammar checker 
+* spelling/grammar checker   
+
 20
 
 
