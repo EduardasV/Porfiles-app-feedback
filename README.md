@@ -1,6 +1,23 @@
 # Profiles app feedback
   
 ### Problem List
+#### Group oceane, els, hanad
+* box fields characters, size, format
+* edit/destroy
+#### Group Viren, nat, ed
+* custom sections
+* pdf formating
+#### Group raj, reece, tas
+* admin permissions - add comments
+* groups
+#### Group ivor, mav, hussin, kirome
+* add skill section
+* filters
+* responsive
+* profile versions
+
+---
+
 * For the employment section there is no option for being currently employed.
 * Reword number of characters per field
 * profile versions ( as a user I should be able to see previous profile edits)
