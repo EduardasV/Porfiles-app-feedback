@@ -3,7 +3,7 @@
 ### Problem List
 * For the employment section there is no option for being currently employed.
 * Reword number of characters per field
-* profile versions
+* profile versions ( as a user I should be able to see previous profile edits)
 * Richtext editor
 * Rework custom section have options such as: 
    * volunteering
