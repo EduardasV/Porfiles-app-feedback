@@ -1,4 +1,39 @@
 # Profiles app feedback
+  
+### Problem List
+* For the employment section there is no option for being currently employed.
+* Reword number of characters per field
+* Richtext editor
+* Rework custom section have options such as: 
+   * volunteering
+   * hobbies
+   * languages
+* add a correct character count to description: 
+   * update when text was copy pasted
+   * make it clear it counts the title too (bug)
+* Have a selection where you could choose if you have a uni degree or not  
+* When populating sections where you are expected to have more than one entry, add a button to quickly input another entry instead of going back to the initial page
+* add destroy and edit button next to eachother in the sections which require this feature. Currently only had destroy
+* auto expand text fields depending on the users display size
+* add a feature where you could order your projects to be displayed in your profile.
+* make it responsive  
+* grouped profiles for different teams (when approving) 
+* drop down/filter to view the profiles
+* comment section for when the profile was reviewed  
+* (admin) adds groups - add memebers to groups
+* skill section under the summary on the top  
+* tooltips - how to fill out certain sections
+* When trying to submit my profile from draft to pending, the app said that there was an error. (quicktime to record the error)
+* example placeholders in boxes
+* spelling/grammar checker 
+20
+
+
+* Add more courses for an institute (pending)
+
+
+
+
 
 ### Ealilan Mathivannan:  
 * For the employment section there is no option for being currently employed.
@@ -16,6 +51,8 @@
 * when in mobile view, have log-out on the same line as the hamburger glyphicon, show the name only when ther nav bar is expanded. this is because the name takes up space which makes it look like you have 2 navbars.  
 * add a feature where you could order your projects.  
 * ... add a correct character count to description... make it clear it counts the title too.  
+*  the size of the title of the project is not resizable.  
+*   Profile isn't very well-formatted: when converted to pdf it isn't formated correctly. (bug)
 
 ### Hanad Ahmed:  
 What I felt could be improved is that in the summary the character count could be increased as there was only 600 character available and that is including spaces and full stops, commas and so-forth.
@@ -51,7 +88,7 @@ Cannot enter the current employment as it requires  the end date
 ### Nattinan Oukongka:  
 *  It's simple and easy to use, but not very well designed.
 *  Instructions are not very detailed i.e. on the Education section, it should be specified what type/level of educations should be provided.
-*   Profile isn't very well-formatted.
+*   Profile isn't very well-formatted: when converted to pdf it isn't formated correctly. (bug)
 *   No formatting options, even the custom section is not customisable i.e. you should at least be able to change text sizes.
 *   In the responsive mode, the Profile page isn't very well presented. The summary section should be cut off, and just display the first few lines as it doesn't look very attractive; it looks cluttered.
 *   The way the "Approved Profiles," "Pending Profiles," "Rejected Profiles," and "Draft Profiles" are listed isn't a very appealing; it looks awkward. Maybe have them in a drop-down menu option somewhere visible, like on the same line as Profile but set to the right?
@@ -92,3 +129,5 @@ Cannot enter the current employment as it requires  the end date
   * The Certificate and Custom section title field needs to have a longer field width, for I can not see a lot of what I typed.
   * Fields need a popup tab to say what to put inside the field, just incase someone is stuck on what to say.
   * Not all elements are resizable within the application.
+  
+
